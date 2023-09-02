@@ -1,5 +1,5 @@
 # Tempestuous-Turrets
-My two friends and I developed a 4-player local co-op game using the Unity engine for the Hack the North 2022 hackathon. We deployed the application using Git as source control, manually uploading web versions of the build files generated using Unity's automated system on Azure via Github to make them publicly accessible. All assets seen on screen are original, as we created all of them from scratch ourselves specifically for this game barring from the music. 
+My two friends and I developed a 4-player local co-op game using the Unity engine for the Hack the North 2022 hackathon. We deployed the application using Git as source control, manually uploading web versions of the build files generated using Unity's automated system on Azure via Github to make them publicly accessible. All assets seen on screen are original, as we created all of them from scratch ourselves, specifically for this game, barring from the music. 
 
 For the full breakdown of the creation process and overall development of this project, please visit our [Devpost](https://devpost.com/software/tempestuous-turrets).
 
