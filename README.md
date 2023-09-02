@@ -4,6 +4,6 @@ My two friends and I developed a 4-player local co-op game using the Unity engin
 For the full breakdown of the creation process and overall development of this project, please visit our [Devpost](https://devpost.com/software/tempestuous-turrets).
 
 # Playing the Game
-Go to [tempestuousturrets.tech](http://tempestuousturrets.tech/) to try it out! The website runs the game well and gives you a chance to play it, but for an even better experience, we highly recommend that you download the game on your local machine via the file uploaded in the rep called 'TEMPESTOUS_TURRETS_WIN'. NOTE: To download it and play it, it is critical you have Unity installed along with the corresponding environment set up and ready to go.
+Go to [tempestuousturrets.tech](http://tempestuousturrets.tech/) to try it out! The website runs the game well and gives you a chance to play it, but for an even better experience, it is highly recommended that you download the game on your local machine via the file uploaded in the repo called 'TEMPESTOUS_TURRETS_WIN'. Simply download it, unzip, and play! NOTE: To download it and play it, it is critical you have Unity installed along with the corresponding environment set up and ready to go.
 
 
