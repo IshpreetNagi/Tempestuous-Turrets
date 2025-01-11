@@ -6,6 +6,7 @@ For the full breakdown of the creation process and overall development of this p
 ### Playing the Game
 Go to [tempestuousturrets.tech](http://tempestuousturrets.tech/) to try it out! The website runs the game well and gives you a chance to play it, but for an even better experience, it is highly recommended that you download the game on your local machine via the file uploaded in this repo called 'TEMPESTOUS_TURRETS_WIN'. Simply download it, unzip, and play! NOTE: To play it locally on your machine, it is critical you have Unity installed along with the corresponding environment set up and ready to go.
 
-UPDATE 2025: Virtual online support of the website has ended, please refer to downloading the program on your local machine to try out the game!
+### UPDATE 2025
+Virtual online support of the website has ended, please refer to downloading the program on your local machine to try out the game!
 
 
